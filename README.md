@@ -65,7 +65,7 @@ The candidate can use any AWS service, but he is required to include these:
    * Sanitization
    * Validation
 
-## Design
+## :framed_picture: Design
 
 There are some inspirational designs for the project. However feel free to use your own.
 [mockups folder](mockup)
