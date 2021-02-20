@@ -34,7 +34,8 @@ Create a React application that retrieves and displays user repositories and org
 The candidate can use any AWS service, but he is required to include these:
 
 - [ReactJS](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
+- [New Context API](https://reactjs.org/docs/context.html)
+- [Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## :information_desk_person: How To Submit
@@ -46,14 +47,13 @@ The candidate can use any AWS service, but he is required to include these:
 
 1. Learning Competencies
    * Challenge understanding.
-   * Implement Frontend application using React/Redux, patterns and best practices.
+   * Implement Frontend application using React, Hooks, Context API, patterns and best practices.
    * Implement tests.
    * Manipulate Input/API parsing correctly.
 
 
 2. Good to Have
    * Use ES6 syntax including arrow functions, destructuring and async/await
-   * React Hooks
    * Typescript
    * Unit/Integration/E2E tests
    * Adding a spinner when information is loading
