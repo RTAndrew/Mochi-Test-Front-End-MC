@@ -26,7 +26,7 @@ Create a React application that retrieves and displays user repositories and org
 
 1. An input to enter the username. (INPUT)
 
-2. One area to display the repositories of the user and another area to display the organisations
+2. One area to display the repositories of the user and another area to display the organisations (OUTPUT)
 
 ## :rocket: Technology
 
