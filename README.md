@@ -62,7 +62,7 @@ The candidate can use any technology , but he is required to include these:
    * Divide the application in different pages and use a router
    * Adding state management
    * Show common tools used for you daily development environment (linters, code formatter, git workflow, docker and so on)
-   * Deploy the project somewhere
+   * Deploy the project somewhere ([Vercel](https://vercel.com/)?)
    * Sanitization
    * Validation
 
