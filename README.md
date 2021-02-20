@@ -13,7 +13,8 @@ Welcome to your aptitude test
   <a href="#medal_sports-objective">Objective</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#information_desk_person-how-to-submit">How to submit</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
- <a href="#test_tube-grading-criteria ">Grading criteria</a>&nbsp;&nbsp;  
+  <a href="#test_tube-grading-criteria">Grading criteria</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#framed_picture-design">Design</a>&nbsp;&nbsp;&nbsp;
 </p>  
 
 This test aims to measure the candidate's technical capabilities and find out if they are in accordance with the developer profile that Mochi is looking for.
