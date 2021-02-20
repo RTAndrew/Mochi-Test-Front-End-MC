@@ -31,7 +31,7 @@ Create a React application that retrieves and displays user repositories and org
 
 ## :rocket: Technology
 
-The candidate can use any AWS service, but he is required to include these:
+The candidate can use any technology , but he is required to include these:
 
 - [ReactJS](https://reactjs.org/)
 - [New Context API](https://reactjs.org/docs/context.html)
