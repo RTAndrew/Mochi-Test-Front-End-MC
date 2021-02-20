@@ -58,7 +58,7 @@ The candidate can use any AWS service, but he is required to include these:
    * Unit/Integration/E2E tests
    * Adding a spinner when information is loading
    * Deal with errors coming from the backend
-   * Having a nice UI using a components library (MaterialUI?)
+   * Having a nice UI using a components library ([Material UI](https://material-ui.com/)?)
    * Divide the application in different pages and use a router
    * Adding state management
    * Show common tools used for you daily development environment (linters, code formatter, git workflow, docker and so on)
