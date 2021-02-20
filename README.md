@@ -28,24 +28,6 @@ Create a React application that retrieves and displays user repositories and org
 
 2. One area to display the repositories of the user and another area to display the organisations
 
-#Design
-
-There are some inspirational designs for the project. However feel free to use your own.
-[mockups folder](mockup)
-
-## Desktop view
-![Overview](images/1280.png)
-
-## Mobile views
-Initial state              |  Users
-:-------------------------:|:-------------------------:
-![](images/375.1.png)      |  ![](images/375.2.png)
-
-Empty                      |  Companies
-:-------------------------:|:-------------------------:
-![](images/375.3.png)      |  ![](images/375.4.png)
-
-
 ## :rocket: Technology
 
 The candidate can use any AWS service, but he is required to include these:
@@ -82,5 +64,22 @@ The candidate can use any AWS service, but he is required to include these:
    * Deploy the project somewhere
    * Sanitization
    * Validation
+
+## Design
+
+There are some inspirational designs for the project. However feel free to use your own.
+[mockups folder](mockup)
+
+## Desktop view
+![Overview](images/1280.png)
+
+## Mobile views
+Initial state              |  Users
+:-------------------------:|:-------------------------:
+![](images/375.1.png)      |  ![](images/375.2.png)
+
+Empty                      |  Companies
+:-------------------------:|:-------------------------:
+![](images/375.3.png)      |  ![](images/375.4.png)
 
 ## All Rights Reserved for Mochi Labs, LDA
