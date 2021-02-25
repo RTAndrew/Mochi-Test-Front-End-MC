@@ -33,7 +33,7 @@ Create a React application that retrieves and displays user repositories and org
 
 The candidate can use any technology , but he is required to include these:
 
-- [ReactJS](https://reactjs.org/)
+- [ReactJS](https://reactjs.org/) or [NextJS](https://nextjs.org/)
 - [New Context API](https://reactjs.org/docs/context.html)
 - [Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
